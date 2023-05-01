@@ -48,5 +48,4 @@ To start download and install PHP Manager for IIS.</p>
 
 ![image](https://user-images.githubusercontent.com/111653930/235494410-b5fb0fcc-291e-4bb7-9953-02812dc023c7.png)
 
-To start download and install PHP Manager for IIS.</p>
 
