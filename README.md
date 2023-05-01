@@ -121,12 +121,16 @@ Browse to C: > inetpub > wwwroot > osTicket > include and rename the file "ost-s
 
 ![image](https://user-images.githubusercontent.com/111653930/235533309-1cc820bc-bb44-455a-9cd4-87a6fe4d4f7f.png)
 
-
+<br>
 
 After renaming the file, right click "ost-config.php" - properties - security - advance and Disable Inheritance.
 
 ![image](https://user-images.githubusercontent.com/111653930/235534738-a624c9da-0663-48a1-884c-509918067959.png)
 
 
+
+Then add allow everyone full control.
+
+![image](https://user-images.githubusercontent.com/111653930/235534994-49c90d11-32c8-4a8b-bc49-cf529a36e8c5.png)
 
 
