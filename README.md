@@ -18,13 +18,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Azure Virtual Machine
+- osTicket Installation files
+- Heidi SQL
 
 <h2>Installation Steps</h2>
+
+<p>Welcome to my first tutorial! To get things started we will create a new Virtual Machine using the Microsoft Azure Platform. Begin by creating a new resource group called "osTicket".  </p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
