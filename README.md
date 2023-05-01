@@ -99,6 +99,12 @@ Next we download and install osTicket v 1.15.8. Extract and copy the "upload" fo
 ![image](https://user-images.githubusercontent.com/111653930/235529939-382680e1-3fa2-41c6-a23b-cbb848713a95.png)
 ![image](https://user-images.githubusercontent.com/111653930/235530190-ce6af00d-974d-4bb0-99c7-52d799f6bdc1.png)
 
+<br>
+
+Next reload Internet Information Services (as admin) and restart the server on the top right. Now go to sites - default - osTicket, and on the right click Browse *:80:
+
+![image](https://user-images.githubusercontent.com/111653930/235531056-78596e09-165e-4d61-84bd-2fa567f370a9.png)
+
 
 
 
