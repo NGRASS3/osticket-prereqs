@@ -94,4 +94,11 @@ Next open IIS as an admin. Double click PHP Manager and select Register New PHP 
 ![image](https://user-images.githubusercontent.com/111653930/235528502-c1136453-67e1-4047-857a-ef20f0c61d64.png)
 
 
+Next we download and install osTicket v 1.15.8. Extract and copy the "upload" folder to c:\inetpub\wwwroot. Once the file is copied rename it to "osTicket".
+
+![image](https://user-images.githubusercontent.com/111653930/235529939-382680e1-3fa2-41c6-a23b-cbb848713a95.png)
+![image](https://user-images.githubusercontent.com/111653930/235530190-ce6af00d-974d-4bb0-99c7-52d799f6bdc1.png)
+
+
+
 
