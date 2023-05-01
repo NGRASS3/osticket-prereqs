@@ -105,6 +105,18 @@ Next reload Internet Information Services (as admin) and restart the server on t
 
 ![image](https://user-images.githubusercontent.com/111653930/235531056-78596e09-165e-4d61-84bd-2fa567f370a9.png)
 
+<br>
+
+Note that some extensions are not enabled. Go back to Internet Information Services (as admin) and click sites > default > osTicket. Double click PHP Manager - Enable or disable an extension and enable the following extensions:
+- php_imap.dll
+- php_intl.dll
+- php_opcache.dll
+
+Now refresh the osTicket site in your browser and observer the change:
+
+![image](https://user-images.githubusercontent.com/111653930/235532568-aacc28b5-a6c7-4bc3-a0f6-8d882df93e9a.png)
+
+
 
 
 
