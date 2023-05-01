@@ -48,4 +48,8 @@ To start download and install PHP Manager for IIS.</p>
 
 ![image](https://user-images.githubusercontent.com/111653930/235494410-b5fb0fcc-291e-4bb7-9953-02812dc023c7.png)
 
+<p> Following the PHP Manager we will install the Rewrite Module. </p>
+
+![image](https://user-images.githubusercontent.com/111653930/235495727-eff79be9-b6c8-4fcf-9b20-d89cb62da4db.png)
+
 
