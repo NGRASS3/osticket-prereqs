@@ -63,4 +63,11 @@ Next we will create a directory for PHP on the local harddrive. Navigate to the 
 
 ![image](https://user-images.githubusercontent.com/111653930/235520886-58cbffdf-4313-4392-aebd-16d32efbe2f8.png)
 
+<br>
+
+Now we will download the php file. Right click the file and hit Extract all. Now choose our newly created PHP folder in the root of C:
+
+
+![image](https://user-images.githubusercontent.com/111653930/235523489-c78ab3b4-f600-475f-b16e-2ad8d6d88cdb.png)
+
 
