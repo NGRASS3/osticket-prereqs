@@ -42,10 +42,11 @@ Once connected we will install / enable IIS in Windows with CGI.
 
 ![image](https://user-images.githubusercontent.com/111653930/235476668-87ed5a24-95e2-4900-b2b7-cfdb6e727a1c.png)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<p> Next we will begin downloading and installing all the necessary files to run osTicket. All files are available here: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+
+To start download and install PHP Manager for IIS.</p>
+
+![image](https://user-images.githubusercontent.com/111653930/235494410-b5fb0fcc-291e-4bb7-9953-02812dc023c7.png)
+
+To start download and install PHP Manager for IIS.</p>
+
