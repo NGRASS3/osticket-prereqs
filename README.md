@@ -71,3 +71,12 @@ Now we will download the php file. Right click the file and hit Extract all. Now
 ![image](https://user-images.githubusercontent.com/111653930/235523489-c78ab3b4-f600-475f-b16e-2ad8d6d88cdb.png)
 
 
+After that we will download and install VC_redist.x86
+
+![image](https://user-images.githubusercontent.com/111653930/235524296-78c66f23-48cf-4217-9b95-0774475409c2.png)
+
+<br>
+
+And last but not least we will download and install MySql Server. Accept the agreement and run a Typical install. 
+
+![image](https://user-images.githubusercontent.com/111653930/235525127-54be54a4-fdf8-4f8f-b82e-deb56f91171b.png)
