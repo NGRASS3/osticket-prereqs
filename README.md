@@ -27,6 +27,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>Welcome to my first tutorial! To get things started we will create a new Virtual Machine using the Microsoft Azure Platform. Begin by creating a new resource group called "RG-osTicket". Once your resource group is made create a new Virtual Machine and name it "vm-osticket". Make sure this Virtual Machine is set to Windows 10 and has 2-4 vcpu's.</p>
 
 ![image](https://user-images.githubusercontent.com/111653930/235471893-c5bb8b4b-3e13-4ec1-bef5-6daac2fbd079.png)
+<br/>
+
 
 <p>
 Next we will connect to the VM using either Remote Desktop Connection on a PC or Microsoft Remote Desktop on a Mac. To connect grab the Public IP address from the VM and login using the Username and Password you made during the creation of the VM.
@@ -34,11 +36,11 @@ Next we will connect to the VM using either Remote Desktop Connection on a PC or
 
 ![image](https://user-images.githubusercontent.com/111653930/235473276-5c17744a-a14e-425f-8fd1-068f692072cc.png)
 
-<br />
+<br>
 
-<p>
+
 Once connected we will install / enable IIS in Windows with CGI. 
-</p>
+
 
 ![image](https://user-images.githubusercontent.com/111653930/235476668-87ed5a24-95e2-4900-b2b7-cfdb6e727a1c.png)
 
