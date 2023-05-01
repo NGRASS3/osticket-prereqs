@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>Welcome to my first tutorial! To get things started we will create a new Virtual Machine using the Microsoft Azure Platform. Begin by creating a new resource group called "osTicket".  </p>
+<p>Welcome to my first tutorial! To get things started we will create a new Virtual Machine using the Microsoft Azure Platform. Begin by creating a new resource group called "RG-osTicket". Once your resource group is made create a new Virtual Machine and name it "vm-osticket". Make sure this Virtual Machine is set to Windows 10 and has 2-4 vcpu's.</p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
