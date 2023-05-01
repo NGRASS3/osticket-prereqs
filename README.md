@@ -54,4 +54,11 @@ To start download and install PHP Manager for IIS.</p>
 
 ![image](https://user-images.githubusercontent.com/111653930/235495727-eff79be9-b6c8-4fcf-9b20-d89cb62da4db.png)
 
+<br>
+
+
+Next we will create a directory for PHP on the local harddrive. Navigate to the root of the C: drive and right click - New - Folder, and name it PHP.
+
+![image](https://user-images.githubusercontent.com/111653930/235520886-58cbffdf-4313-4392-aebd-16d32efbe2f8.png)
+
 
