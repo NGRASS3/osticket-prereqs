@@ -84,7 +84,14 @@ And last but not least we will download and install MySql Server. Accept the agr
 
 
 
-After install launch the configuration wizard and use Standard Configuration and choose a root password:
+Following the configuration wizard select Standard Configuration and choose a root password:
 
 ![image](https://user-images.githubusercontent.com/111653930/235526906-2bcb4de5-5a44-4ffd-af9d-766f973ae884.png)
+
+
+Next open IIS as an admin. Double click PHP Manager and select Register New PHP Version. Navigate to C: > PHP > and select the php-cgi file and select OK.
+
+![image](https://user-images.githubusercontent.com/111653930/235528502-c1136453-67e1-4047-857a-ef20f0c61d64.png)
+
+
 
