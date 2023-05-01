@@ -80,3 +80,11 @@ After that we will download and install VC_redist.x86
 And last but not least we will download and install MySql Server. Accept the agreement and run a Typical install. 
 
 ![image](https://user-images.githubusercontent.com/111653930/235525127-54be54a4-fdf8-4f8f-b82e-deb56f91171b.png)
+<br>
+
+
+
+After install launch the configuration wizard and use Standard Configuration and choose a root password:
+
+![image](https://user-images.githubusercontent.com/111653930/235526906-2bcb4de5-5a44-4ffd-af9d-766f973ae884.png)
+
