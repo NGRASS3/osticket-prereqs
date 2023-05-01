@@ -146,7 +146,7 @@ Next download and install HeidiSQL. Create a new session and login with the cred
 
 ![image](https://user-images.githubusercontent.com/111653930/235537937-8c0a06b1-9804-4feb-a454-29253437186b.png)
 
+![image](https://user-images.githubusercontent.com/111653930/235538097-11854c56-81b7-4eb8-9dac-fd0073f30197.png)
 
 
 
-Next download and install HeidiSQL. Create a new session and login with the credentials we made before. Connect to the session and create a database called "osTicket"
