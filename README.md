@@ -139,3 +139,14 @@ Continue setting up osTicket within the browser.
 
 ![image](https://user-images.githubusercontent.com/111653930/235536371-b4f302c1-e7a5-4314-992e-114239a55c9d.png)
 
+
+Next download and install HeidiSQL. Create a new session and login with the credentials we made before. Connect to the session and create a database called "osTicket". Once created add the correct information and hit Install now!
+
+![image](https://user-images.githubusercontent.com/111653930/235537685-9401b9c4-c8df-48ae-8903-b971e65941b8.png)
+
+![image](https://user-images.githubusercontent.com/111653930/235537937-8c0a06b1-9804-4feb-a454-29253437186b.png)
+
+
+
+
+Next download and install HeidiSQL. Create a new session and login with the credentials we made before. Connect to the session and create a database called "osTicket"
