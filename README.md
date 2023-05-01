@@ -135,3 +135,7 @@ New Permissions -> Everyone -> All
 ![image](https://user-images.githubusercontent.com/111653930/235534994-49c90d11-32c8-4a8b-bc49-cf529a36e8c5.png)
 
 
+Continue setting up osTicket within the browser. 
+
+![image](https://user-images.githubusercontent.com/111653930/235536371-b4f302c1-e7a5-4314-992e-114239a55c9d.png)
+
