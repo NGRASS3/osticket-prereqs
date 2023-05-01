@@ -117,6 +117,12 @@ Now refresh the osTicket site in your browser and observer the change:
 ![image](https://user-images.githubusercontent.com/111653930/235532568-aacc28b5-a6c7-4bc3-a0f6-8d882df93e9a.png)
 
 
+Browse to C: > inetpub > wwwroot > osTicket > include and rename the file "ost-sampleconfig.php" to "ost-config.php"
+
+![image](https://user-images.githubusercontent.com/111653930/235533309-1cc820bc-bb44-455a-9cd4-87a6fe4d4f7f.png)
+
+
+
 
 
 
