@@ -153,7 +153,7 @@ Next download and install HeidiSQL. Create a new session and login with the cred
 To clean up, delete C:\inetpub\wwwroot\osTicket\setup and set permissions to "read only" for our "ost-config.php" file.
 
 
-![image](https://user-images.githubusercontent.com/111653930/235539081-fbe730c8-fcf9-4293-9712-f3e523160d97.png)
+![image](https://user-images.githubusercontent.com/111653930/235690224-a45ebebb-a7ee-4586-aa71-da42382ae7a9.png)
 
 
 
